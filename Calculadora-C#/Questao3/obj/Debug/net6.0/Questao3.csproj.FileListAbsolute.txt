@@ -1,0 +1,45 @@
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\bin\Debug\net6.0\Questao3.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\bin\Debug\net6.0\Questao3.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\bin\Debug\net6.0\Questao3.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\bin\Debug\net6.0\Questao3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\bin\Debug\net6.0\ref\Questao3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\bin\Debug\net6.0\Questao3.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\obj\Debug\net6.0\Questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\obj\Debug\net6.0\Questao3.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\obj\Debug\net6.0\Questao3.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\obj\Debug\net6.0\Questao3.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\obj\Debug\net6.0\Questao3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\obj\Debug\net6.0\ref\Questao3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\obj\Debug\net6.0\Questao3.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\obj\Debug\net6.0\Questao3.genruntimeconfig.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova\Questao3\Questao3\obj\Debug\net6.0\Questao3.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.exe
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.deps.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.runtimeconfig.json
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\ref\Questao3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.csproj.AssemblyReference.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.AssemblyInfoInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.AssemblyInfo.cs
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.csproj.CoreCompileInputs.cache
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\ref\Questao3.dll
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.pdb
+C:\Users\pedro\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.genruntimeconfig.cache
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.exe
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.deps.json
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.runtimeconfig.json
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.dll
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\bin\Debug\net6.0\Questao3.pdb
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.csproj.AssemblyReference.cache
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.AssemblyInfoInputs.cache
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.AssemblyInfo.cs
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.dll
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\refint\Questao3.dll
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.pdb
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\Questao3.genruntimeconfig.cache
+C:\Users\Pedro Henrique\OneDrive\Área de Trabalho\Prova_U01_PedroHenrique\Questao3\Questao3\obj\Debug\net6.0\ref\Questao3.dll
